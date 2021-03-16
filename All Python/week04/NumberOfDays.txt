@@ -1,0 +1,7 @@
+Sunday is mentioned 4 times in Pride_and_Prejudice.txt 
+Monday is mentioned 5 times in Pride_and_Prejudice.txt 
+Tuesday is mentioned 2 times in Pride_and_Prejudice.txt 
+Wednesday is mentioned 4 times in Pride_and_Prejudice.txt 
+Thursday is mentioned 3 times in Pride_and_Prejudice.txt 
+Friday is mentioned 0 times in Pride_and_Prejudice.txt 
+Saturday is mentioned 7 times in Pride_and_Prejudice.txt 
